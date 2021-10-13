@@ -1,6 +1,5 @@
 
-# Plotting Height Anomalies on planet Mars and around Perseverance rover, Mount Olympus
-
+# Plotting Height Anomalies on Planet Mars and Around Perseverance Rover, Mount Olympus
 
 ## Project Statement
 
