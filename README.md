@@ -94,7 +94,7 @@ If you want to plot 3D of contour map, please type these on command window:
 
 ![Surf Mars](surf_Mars.jpg)
 
-**Please review the .pdf files for more detailed information.**
+**Please review the .gdf files for more detailed information.**
 
 ##  What is Height Anomaly?
 
