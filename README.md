@@ -21,7 +21,7 @@ The datasets available for the study were created through the .gdf files on the 
 
 ### mars_OlympusMountain.gdf dataset info:
 
-![Mounth Olympus](Plotting Height Anomalies on Ellipsoidal Grids of Mounth Olympus.png)
+![Mounth Olympus](Height_Anomalies_on_Ellipsoidal_Grids_of_Mounth_Olympus.png)
 
        long_lat_unit       degree
       latlimit_north       40.140000000000    
@@ -46,7 +46,7 @@ If you want to plot 3D of contour map, please type these on command window:
 
 ### mars_Perseverance.gdf dataset info:
 
-![Perseverance Rover](Plotting Height Anomaly on Ellipsoidal Grids Where the Perseverance Rover Is.jpg)
+![Perseverance Rover](Height_Anomaly_on_Ellipsoidal_Grids_Where_the_Perseverance_Rover_Is.jpg)
 
        long_lat_unit     degree
       latlimit_north     19.060000000000    
@@ -71,7 +71,7 @@ If you want to plot 3D of contour map, please type these on command window:
 
 ### mars_height_anomaly_ell.gdf dataset info:
 
-![Mars Height Anomalies](Plotting Height Anomaly on Ellipsoidal Grids.png)
+![Mars Height Anomalies](Height_Anomaly_on_Ellipsoidal_Grids.png)
 
        long_lat_unit     degree
       latlimit_north     90.000000000000    
